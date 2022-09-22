@@ -4,7 +4,7 @@ Blood Castle - квест в MU Online, для выполнения которо
 ## Как попасть в Blood Castle
 Пропуском в Blood Castle является Cloak of Invisibility (Плащ Невидимости). Создается он в Хаос Машине. Для его создания вам понадобятся Scroll of Archangel, Blood Fang (все они должны быть одного уровня) и один Jewel of Chaos (не нужен для создания Cloak of Invisibility +1). Комбинируется все это с разной вероятностью удачи и требует некоторой суммы Zen. Cloak of Invisibility можно купить в CashShop за игровую валюту.
 
-![alt text](https://globalmuonline.es/es/_img/bloodcastle.gif) 
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPQuvs3IkBTU6weSZJZRvIiL3YFtrYjX2eAMFBi07ho7tjD-akvrVkQsQCsHVQBAj0w&usqp=CAU) 
 
 ## Время проведения квеста
 В определенное время в игре MUonline начинают появляться сообщения: "6 (5,4,3,2,1) minute(s) left before entry into Blood Castle". Как только вы увидите такое сообщение, не медля идите с Cloak of Invisibility к архангелу (он находится в  Давиаса 214х98). Поговорите с ним, на экране у вас появиться таблица, в которой вам необходимо выбрать подходящий для вашего персонажа уровень Blood Castle (такого же уровня должен быть и Cloak of Invisibility у вас в инвентаре). Если вы все сделали правильно, то вы попадете в Blood Castle.
