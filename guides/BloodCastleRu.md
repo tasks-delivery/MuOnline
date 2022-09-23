@@ -9,7 +9,12 @@ Blood Castle - квест в MU Online, для выполнения которо
 ## Время проведения квеста
 В определенное время в игре MUonline начинают появляться сообщения: "6 (5,4,3,2,1) minute(s) left before entry into Blood Castle". Как только вы увидите такое сообщение, не медля идите с Cloak of Invisibility к архангелу (он находится в  Давиаса 214х98). Поговорите с ним, на экране у вас появиться таблица, в которой вам необходимо выбрать подходящий для вашего персонажа уровень Blood Castle (такого же уровня должен быть и Cloak of Invisibility у вас в инвентаре). Если вы все сделали правильно, то вы попадете в Blood Castle.
 
+DK, DW, ELF
+
 ![alt text](https://lh3.googleusercontent.com/-CKZ93d7rkB0/WsShqnWrhHI/AAAAAAAAClY/fKHnVqowPa0nFEXkcxFvOpuOLrPvNocdQCLcBGAs/1.png) 
+
+DL, MG, SUM
+
 ![alt text](https://3.bp.blogspot.com/_Gx5v96e0H5s/THL16vpA_AI/AAAAAAAAAag/dm_EMPFqUXs/s1600/Blood+Castle+DL+MG.jpg) 
 
 

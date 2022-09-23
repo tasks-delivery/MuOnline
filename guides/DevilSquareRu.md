@@ -11,7 +11,13 @@ Devil's Square – это квест для проверки силы и вын�
 
 В определенное время в игре MUonline начинают появляться сообщения: "15 (10,5) minute(s) left before Devil's Square opens!". А по прошествии указанного времени появится сообщение "The gates of Devil's Square are open!". Как только вы увидите такое сообщение, не медля идите с Devil's Square Invitation к Charon (он находиться в Devias 130x100). Поговорите с ним, на экране у вас появиться таблица, в которой вам необходимо выбрать подходящий для вашего персонажа уровень Devil's Square (такого же уровня должен быть и Devil's Square Invitation у вас в инвентаре). Если вы все сделали правильно, то вы попадете в Devil's Square.
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4XxLCd6l3P3Jhk9g7fH-35s7GlafYbjvoTEkMBcwEwH_Q-u1zg6zKdbs--X4n00n9QU&usqp=CAU)![alt text](https://lh3.googleusercontent.com/-S7zZBCH4pLA/WsSq_p1s6xI/AAAAAAAACmU/MqMlTwQ08E0eoBFg-s0H4WPQeD_kTnqNQCLcBGAs/2.png)
+DK, DW, ELF
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4XxLCd6l3P3Jhk9g7fH-35s7GlafYbjvoTEkMBcwEwH_Q-u1zg6zKdbs--X4n00n9QU&usqp=CAU)
+
+DL, MG, SUM
+
+![alt text](https://lh3.googleusercontent.com/-S7zZBCH4pLA/WsSq_p1s6xI/AAAAAAAACmU/MqMlTwQ08E0eoBFg-s0H4WPQeD_kTnqNQCLcBGAs/2.png)
 
 После телепортации в Devil's Square дается время на подготовку к битве и создание party из присутствующих участников.
 
