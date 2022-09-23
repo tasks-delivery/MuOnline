@@ -318,48 +318,783 @@ Bloody Summoner станет Dimension Master
 
 <details>
 <summary>Как заработать WoCoins</summary>
-</details>
 
-<details>
-<summary>WoCoins</summary>
+## Голосование, на текущий момент у нас есть платформы для голосования за которые мы платим WoCoins.
+На MUONLINE.US, ARENA-TOP100 можно голосовать 2 раза в день и получать за каждый голос по 2-3 WoCoins, на MMOANONS.COM только один раз в день и получать тоже 3 WoCoins.
+
+## Рефералы, приглашая людей на сервер и прокачивая их вы можете получать из этого приличную прибыль. 
+Схема работы системы приглашений проста: 
+- Вы получаете вашу уникальную ссылку и предлагаете зарегистрироваться по ней на нашем сервере. Таким образом при регистрации будет указан именно ваш реферальный номер. 
+- Приглашенный игрок регистрируется, создает персонажа и начинает им играть. По достижению определенных ресетов вы и приглашенный вами игрок получаете WoCoins в игре. Ниже приведены вами приглашенные игроки, их статус, а также схема призовых WoCoins. 
+- Когда ваш реферал вносит WoCoins на счет, то вы и ваш реферал будете получать дополнительно +10% от суммы перевода. Так же когда ваш реферал набирает X ресетов он получает прибыль с этого вместе с вами. 
+
+Ниже можно посмотреть матрицу распределения прибыли за реферала.
+
+|  | Ресет 100 | Ресет 150  | Ресет 200  |
+| ---------------------- |---------- | ---------- | ---------- |
+| WoCoins приглашенного  | 50        | 100        | 300        |
+| WoCoins пригласившего  | 20        | 40         | 90         |
+
+## Получение WoCoins за позиции в рейтинге Blood Castle, Devil Square, Chaos Castle Illusion Temple, Duel. 
+Чем больше раз вы побеждаете в перечисленных ваше мероприятиях тем выше ваша позиция в рейтинге. Рейтинг обнуляется каждый первый день месяца в 00:00 (GMT+3) и лидеры рейтинга получают призы в виде WoCoins. 
+
+Принцип распределения наград можно увидеть ниже: 
+- ✨Первое место получает 100 WoCoins  ✨
+- Второе место получает 50 WoCoins 
+- Третье место получает 25 WoCoins 
+- Позиции с 4 по 10 получают 10 WoCoins
+
+## Гранд ресеты, у вас есть возможность сразу получить от 500 до 1200 WoCoins одним разом за гранд ресет вашего персонажа.
+Требования для гранд ресета: 
+- Ваш персонаж должен иметь 50% ресетов от ресет лимита сервера.
+- Ваш персонаж должен иметь 400 уровень. 
+- Ваш аккаунт не должен быть онлайн я в игре. 
+
+> При выполнение Гранд Ресета все ваши текущие ресеты будут сброшены и ваш персонаж получит WoCoins на сумму в зависимости от количества сброшенных ресетов. Свои WoCoins, вы можете потратить в магазине на сайте. Там содержаться топовые Full Excellent броня, щиты и оружие. Ваш персонаж получит 10000 свободных статов.
+
+Более подробно про систему ресетов вы можете почитать на этой же странице в разделе Гранд Ресет 
+
+## Торговля вещами за WoCoins на рынке на сайте.
+
+## У игроков есть возможность заработать еще одну валюту сервера WCoinC за убийство определенных монстров, а затем обменять ее на WoCoins через сайт.
+
+|	Monster	|	Reward	|
+|--|--|
+|	Paunch Blessing	|	1	|
+|	Rabbit	|	1	|
+|	Cursed Goblin	|	1	|
+|	White Wizard	|	1	|
+|	Sapi Queen	|	1	|
+|	Golden Budge Dragon	|	1	|
+|	Death Bone	|	1	|
+|	Golden Soldier	|	2	|
+|	Golden Vepar	|	3	|
+|	Golden Wheel	|	4	|
+|	Golden Goblin	|	5	|
+|	Maya hand left	|	5	|
+|	Maya hand right	|	5	|
+|	Illusion kundun +1	|	5	|
+|	Golden Titan	|	6	|
+|	Illusion kundun +2	|	6	|
+|	Golden Derkon	|	7	|
+|	Illusion kundun +3	|	7	|
+|	Dark Elf	|	7	|
+|	Golden Lizard King	|	8	|
+|	Illusion kundun +4	|	8	|
+|	Golden Tantalos	|	9	|
+|	Illusion kundun +5	|	9	|
+|	Red Dragon	|	10	|
+|	Illusion kundun +6	|	10	|
+|	Selupan	|	10	|
+|	Cursed Santa	|	10	|
+|	Erohim	|	10	|
+|	Nightmare	|	10	|
+|	Kundun	|	11	|
+|	Medusa	|	12	|
+|	Skeleton King	|	12	|
+|	Balgass	|	70	|
+
 </details>
 
 <details>
 <summary>[Event] Illusion Temple</summary>
+
+## Что такое Illusion Temple?
+Illusion Temple - это один из самых захватывающих моментов в игре. Это возможность встретиться с другими игроками вашего уровня, и получить огромное количество очков опыта. Эвент представляет собой PvP, проходит каждый день в 21.00 по Минску, мин. кол-во игроков от 2-х и макс. 10 игроков.
+
+Продолжительность эвента 20 минут, за это время можно отлично развлечься и получить достаточное кол-во опыта.
+
+Для того чтобы попасть в храм Иллюзий, вы должны сначала найти "Mirage" в Devias (230 66), и передать ему приглашение.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlOVUlqguFrr_yluc6Q3AjfGgOerwNCEUgACox90a_wv1b_9JTdt0PBsHS08y4ui0Qlg&usqp=CAU) 
+
+## Уровни Illusion Tample
+
+![alt text](https://i.ibb.co/6tfck7v/niveles.jpg) 
+
+*После прохождения 3-й профессии любой класс 220-400 уровня проходит в illusion-6.
+
+Для создания приглашения Вам необходимо:
+Old Scroll +[1-6] + Illusion Sorcerer Covenant +[1-6] + 1x Jewel of Chaos = Scroll of Blood +[1-6]
+
+![alt text](https://muonlinefanz.com/guide/minigame/it/data/graphics/1234.jpg) 
+
+В зависимости от вашего уровня, понадобятся различные суммы ZEN.
+
+У вас есть около 5 минут, чтобы войти в храм. При наличии мин. кол-ва игроков эвент начнется.
+
+В комнате ожидания, вы будете случайным образом разделены на 2 команды: Red Team и Blue Team. Этот процесс займет всего минуту, затем бой начнется сразу.
+
+Ваша задача заключается в том, чтобы довести мяч до пьедестала вашей команды. Команда, которая возвращает мяч 7 раз - побеждает. Это звучит просто, но на самом деле есть некоторые трудности.
+
+>Чтобы взять мяч у статуи, вы должны находиться у нее, по крайней мере, в течение 10 секунд.
+
+>Не забывайте, когда вы ведете мяч, вы отображаетесь на карте, и ваша бегущая скорость уменьшится, что делает вас наиболее уязвимым для поимки другой командой.
+
+>Как только вы отбиваете мяч на свой пьедестал (Вы должны находиться там 10 секунд), ваша команда получает очко. Далее статуя вновь появится в случайном месте.
+
+>Если вы умрете, ваш мяч сможет поднять любой другой игрок.
+
+Stone Statue
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wiufj8wIffjRG0GVGPsSLkfimaOPLsxTj-xw504cn9FzB_-TCZQFQC1C3wDWqOZn_CI&usqp=CAU) 
+
+Alliance Sacred Item Storage
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxLliPOawbSxAy4x1QmwaMw1mir4kwypEiEpsbvSHw5GZGopec1r7KMeCJnUIL37SSUk&usqp=CAU) 
+
+Illusion Castle Sacred Item
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zPeqhy2Q3SZex1oGKBS33C26Qe0glcDwKDZ-97W82_3Y3gt91t8LVA_6E4eobDjg4dc&usqp=CAU) 
+
+Illusion Sorcerer Elder
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNHW2J9H7SuLHrT7kmjF_y9yZP9Agp-FtEuMXQFp4QtIErL8lYkE79-3VoijVmHivFg&usqp=CAU) 
+
+MU Allies General
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8kkHc2AzC2YAEPRdqDSqBOZmE7gHiwQy6s-zJ0NDa8UFhL8aFqZ6dqVLN37UIqZC1Q&usqp=CAU) 
+
+Навыки, которых вы сможете использовать на эвенте:
+
+>Magic Shield: оборонительный скил.
+
+>Resistance: некоторое время не дает противнику возможности произносить заклинания и двигаться
+
+>Warp: телепорт к мячу.
+
+>Freeze time: игрок наносит двойной урон по SD противника
+
+
+>В первый день каждого месяца в 00.00 самым активным участникам квеста будет начислена награда согласно рейтингу Illusion Tample
+
+Все участники квеста прокачивают достижения "Мясо" или "Гладиатор"
+
+Победившая команда получает щедрый приз.
+
+Каждый член команды получает рандомный Box of kundum +1-5.
 </details>
 
 <details>
 <summary>[Event] Chaos Castle</summary>
+
+## Что такое Chaos Castle?
+Chaos Castle – квест на выживание. В отличие от других квестов MU Online, в этом нужно продержаться как можно дольше и убить всех участников (монстров и игроков).
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXh31emBIo-mDaubQc_xptI3YK5jaMp7di8IxQJTIO0HQ__WO9gVBucpKxcPup3XFnwBM&usqp=CAU)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4oJhOLu-Mwe51ikpiR1FDJqz3sT2bkAmaJYfTU1lqtoXls1XZ6_7iozHkZeTkUAcD0M&usqp=CAU)
+
+## Как попасть в Chaos Castle
+Для того чтобы попасть в Chaos Castle вам нужен Armor of Guardsman.
+
+>Armor of Guardsman можно купить у NPC Potion Girl в Devias 210х59.
+>Узнать время до следующего входа вы можете нажав правой кнопкой мыши на Armor of >Guardsman, как на Invisibility Cloak для Blood Castle.
+>Для входа нажмите "Ok" в появившемся окне, когда по таймеру разрешен вход.
+
+>Убийцы не могут войти в Chaos Castle.
+
+>Персонаж будет перемещен к замку, соответствующему его уровню + вычтется определенное количество Zen.
+
+|Уровень Chaos Castle|	Основные персонажи	|Magic Gladiator / Dark Lord	|Цена входа, Zen|
+|----|--|--|--|
+|1|	15-49	|15-29	|25,000|
+|2|	50-119	|30-99	|80,000|
+|3|	120-179	|100-159|	150,000|
+|4|	180-239	|160-219|	250,000|
+|5|	240-299	|220-279|	400,000|
+|6|	300-400	|280-400|	650,000|
+|7|	Master Level|	Master Level	|1000,000|
+
+## Введение
+
+Общее количество игроков в Chaos Castle равняется 90.
+
+Они поделены на:
+
+>Максимальное количество игроков = 70
+
+>Минимум монстров = 20
+
+>Если число игроков меньше 70, то оставшиеся места, предназначенные для игроков, занимают монстры.
+
+>Замок начинается если в нем есть хотя бы 1 игрок (на одном уровне).
+
+>При входе в Chaos Castle его внешность будет изменена на внешность Guardsman.
+
+>Изменена будет только внешность, параметры персонажа останутся теми же.
+
+>У персонажей будет меч, посох и арбалет, для различия их класса.
+
+>Pets и summons не доступны в Chaos Castle.
+
+
+## Основные правила
+
+>Все персонажи в Chaos Castle рассматриваются как враги, поэтому нет необходимости >использовать клавишу Ctrl для PvP.
+
+>Игроки могут не могут нападать друг на друга в течение времени ожидания.
+
+>Пати в Сhaos Сastle создать нельзя.
+
+>Персональный магазин будет автоматически закрыт и нельзя будет вызвать на дуэль >или объявить войну гильдии.
+
+>Чатиться разрешается только во время ожидания, но эта возможность отключается сразу после начала.
+
+>Buffs могут быть применены только на самого себя, обкастовать другого игрока нельзя.
+
+>Собственный персонаж будет отличим от других так, чтобы он смог отличить себя от других (собственная броня блестит).
+
+>Очки события: 2 очка за убийство монстра и 1 очко за убийство игрока.
+
+>Если после того как все монстры будут убиты остается 2 игрока, то лучший будет выбран по очкам.
+
+>Карта будет уменьшаться из-за обвала пола по периметру замка при уменьшении количества оставшихся игроков (включая монстров).
+
+>Уровень 1 (Оставшееся количество участников 40).
+
+>Уровень 2 (Оставшееся количество участников 30).
+
+>Уровень 3 (Оставшееся количество участников 10).
+
+>Если игрока убьют, он воскреснет в Lorencia.
+
+## Монстры
+
+>Монстры выглядят также как и игроки.
+
+>Количество монстров изменяется в зависимости от количества участников в Chaos Castle (Минимум 30, Максимум 88).
+
+>Есть монстры, которые взрываются после смерти, взрыв наносит повреждение и отбрасывает персонажа назад.
+
+## Персонаж может погибнуть
+
+>Он может быть убит монстром или другим игроком.
+
+>Он может упасть с края крыши замка.
+
+>Он может попасть в ловушку
+
+## Завершение квеста
+
+>Квест будет закончен, когда все остальные игроки мертвы.
+
+>Когда все монстры убиты и остается один игрок перед закрытием.
+
+>Если после окончания квеста остается более двух игроков, то ранжирование будет выполнено по количеству очков.
+
+## Ловушки
+
+>Количество ловушек уменьшается, когда количество участников (игроков и монстров) становиться меньше 50.
+
+>Ловушки наносят одинаковый урон, независимо от защиты персонажа.
+
+>Ловушки сразу убивают персонажа независимо от его уровня и защиты.
+
+## Приз
+
+>В первый день каждого месяца в 00.00 самым активным участникам квеста будет начислена награда согласно рейтингу Chaos Castle
+
+>80% взноса за вход выплачивается произвольно выбранному участнику после старта. (Пример: Castle 1: 10 участников: 25 000 * 10 * 0.8 = 200 000 Zen).
+
+>Одна из сетовых ancient вещей является призом последнему выжившему. Но в Chaos Castle, также может выпасть Flame of Condor с вероятностью 10%.
 </details>
 
 <details>
 <summary>[Event] Devil Square</summary>
+
+## Что такое Devil's Square?
+Devil's Square – это квест для проверки силы и выносливости игрока MU Online. Вознаграждением для победителей будет опыт и огромное количество Zen.
+
+## Как попасть в Devil's Square
+Пропуском в Devil's Square является Devil's Square Invitation (приглашение в Devil's Square). Создается он в Хаос Машине. Для его создания вам понадобятся Devil's Key и Devil's Eye (все они должны быть одного уровня) и один Jewel of Chaos (не нужен для создания Devil's Square Invitation +1). Комбинируется все это с разной вероятностью удачи и требует некоторой суммы Zen. Devil's Square Invitation можно купить в CashShop на игровую валюту.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrbTsqG7ZTPgHpVjb2RLnlqerokVsqCDsjlvzCwBdvrpciljRqP2Xh3LAtdyQ6P0PWE8&usqp=CAU)
+
+
+## Время проведения квеста
+
+В определенное время в игре MUonline начинают появляться сообщения: "15 (10,5) minute(s) left before Devil's Square opens!". А по прошествии указанного времени появится сообщение "The gates of Devil's Square are open!". Как только вы увидите такое сообщение, не медля идите с Devil's Square Invitation к Charon (он находиться в Devias 130x100). Поговорите с ним, на экране у вас появиться таблица, в которой вам необходимо выбрать подходящий для вашего персонажа уровень Devil's Square (такого же уровня должен быть и Devil's Square Invitation у вас в инвентаре). Если вы все сделали правильно, то вы попадете в Devil's Square.
+
+DK, DW, ELF
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4XxLCd6l3P3Jhk9g7fH-35s7GlafYbjvoTEkMBcwEwH_Q-u1zg6zKdbs--X4n00n9QU&usqp=CAU)
+
+DL, MG, SUM
+
+![alt text](https://lh3.googleusercontent.com/-S7zZBCH4pLA/WsSq_p1s6xI/AAAAAAAACmU/MqMlTwQ08E0eoBFg-s0H4WPQeD_kTnqNQCLcBGAs/2.png)
+
+После телепортации в Devil's Square дается время на подготовку к битве и создание party из присутствующих участников.
+
+## Битва
+
+>На протяжении всей битвы вы получаете бонус +30% опыта
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5R4h41yA4-Rrr1ftcj8futqKFTS4aQIlXYrbioBKesE4Yfyw25zryymUEX7SEej4JDB4&usqp=CAU)![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8xWw5kTpqCRsOH_bX9wvKv0-hbBINSqgAaTlsGeYt3M9dKYgxQV05DOh8Q4R4lG8hG4&usqp=CAU)
+
+На весь квест вам дается 15 минут. Каждые 5-7 минут появляются более сильные монстры. Нужно продержаться в Devil's Square до конца для завершения квеста.
+
+Лучших игроков MU Online, убивших большее количество монстров и продержавшихся до конца, наградят огромным количеством опыта и Zen.
+
+>В первый день каждого месяца в 00.00 самым активным участникам квеста будет начислена награда согласно рейтингу Devil's Square
 </details>
 
 <details>
 <summary>[Event] Blood Castle</summary>
+
+## Что такое Blood Castle?
+Blood Castle - квест в MU Online, для выполнения которого необходимо уничтожить определенное количество монстров, врата замка и охраняющих хрустальную статую колдунов. После того как вы доберетесь до статуи и разобьете ее в осколки, вы получите оружие ранененого ангела, которое необходимо вернуть хозяину. После этого ангел вознаградит вас за помощь.
+
+## Как попасть в Blood Castle
+Пропуском в Blood Castle является Cloak of Invisibility (Плащ Невидимости). Создается он в Хаос Машине. Для его создания вам понадобятся Scroll of Archangel, Blood Fang (все они должны быть одного уровня) и один Jewel of Chaos (не нужен для создания Cloak of Invisibility +1). Комбинируется все это с разной вероятностью удачи и требует некоторой суммы Zen. Cloak of Invisibility можно купить в CashShop за игровую валюту.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPQuvs3IkBTU6weSZJZRvIiL3YFtrYjX2eAMFBi07ho7tjD-akvrVkQsQCsHVQBAj0w&usqp=CAU) 
+
+## Время проведения квеста
+В определенное время в игре MUonline начинают появляться сообщения: "6 (5,4,3,2,1) minute(s) left before entry into Blood Castle". Как только вы увидите такое сообщение, не медля идите с Cloak of Invisibility к архангелу (он находится в  Давиаса 214х98). Поговорите с ним, на экране у вас появиться таблица, в которой вам необходимо выбрать подходящий для вашего персонажа уровень Blood Castle (такого же уровня должен быть и Cloak of Invisibility у вас в инвентаре). Если вы все сделали правильно, то вы попадете в Blood Castle.
+
+DK, DW, ELF
+
+![alt text](https://lh3.googleusercontent.com/-CKZ93d7rkB0/WsShqnWrhHI/AAAAAAAAClY/fKHnVqowPa0nFEXkcxFvOpuOLrPvNocdQCLcBGAs/1.png) 
+
+DL, MG, SUM
+
+![alt text](https://3.bp.blogspot.com/_Gx5v96e0H5s/THL16vpA_AI/AAAAAAAAAag/dm_EMPFqUXs/s1600/Blood+Castle+DL+MG.jpg) 
+
+
+После телепортации в Blood Castle поговорите с раненым ангелом. Он расскажет вам историю своего падения и о следующем пришествии монстров, которых вам и предстоит победить. Ангел поставит перед вами цель – вернуть его святое оружие и отомстить монстрам.
+
+## Оружие ангела
+
+Оружие ангела бывает трех видов: меч, посох и арбалет.
+
+## Битва
+
+>На протяжении всей битвы вы получаете бонус +30% опыта
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkfaApYO9en8ra4eLCmWIG_usT9tfsn4_2_iX5VXV7m7O55fQi67rebFKFKVuF66Q1XbI&usqp=CAU) 
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWI006yLpHxyqW0pviQNy-95J3lNnZDNVDtAtLvYpd36hneMtL2pKHickaiKRRV-fvPw&usqp=CAU) 
+
+На весь квест вам дается 15 минут. Сначала вы попадете, казалось бы, на бесконечный мост, на котором необходимо будет убить определенное количество монстров (на одного игрока MU Online приходятся 40 монстров, на двоих – 80 и т.д.).
+
+Убив монстров и перебравшись через мост к воротам замка, нужно будет сломать ворота.
+
+Попав внутрь замка, первым делом придется убить Magic Skeleton-ов (на одного игрока MuOnline приходится 2 колдуна, на двоих игроков – 4 и т.д.).
+
+После расправы с колдунами, появится хрустальная статуя, в руках которой и находится оружие ангела. Статую нужно разбить.
+
+Подобрав оружие, возвращайтесь обратно к ангелу, попутно отбиваясь от монстров. Теперь нужно лишь отдать оружие владельцу.
+
+>В первый день каждого месяца в 00.00 самым активным участникам квеста будет начислена награда согласно рейтингу Blood Castle
+
+Квест выполнен! А вы получаете в одно вознаграждение из предметов ниже.
+
+>Bundled Jewel of Bless x10 - x30
+
+>Bundled Jewel of Soul x10 - x30
+
+>Bundled Jewel of Chaos x10 - x30
+
+>Bundled Jewel of Life x10 - x30
+
+>Bundled Jewel of Creation x10 - x30
+
+>Bundled Gemstone x10 - x30
 </details>
 
 <details>
 <summary>[Event] CryWolf</summary>
+
+## Что такое Crywolf?
+Crywolf - крепость, которая находится на юго-востоке от Valley of Loren. Здесь происходят сражения союза людей и эльфов с многочисленной армией Kundun'а. Крепость идеальнорасположена на холмистой местности для её обороны, поэтому она является ключевой стратегической областью.
+Kundun приказал своей армии под командованием Balgass'а захватить крепость, дабы у него появилась возможность прорваться на сервер.
+Принять участие сможет любой желающий персонаж.
+Попасть на карту Crywolf можно:
+>Из карты Valey of Loren по координатам 161 41;
+
+>Через меню телепортации по нажатии на клавишу 'M';
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMKwQ_4aJA4IlAwRYWPeXO7o7O8eymhs5Usn6HURzbuDXgClqjRd5wCp-gZkmI-xuy_c&usqp=CAU) 
+
+## Информация о битве за Crywolf
+>Balgass со своим войском начинают атаку каждую среду в 21:00;
+
+>О начале сражения всех игроков оповестит сообщение в ГМ-чате (мигающее сообщение золотым цветом по центру экрана);
+
+>Длительность сражения - 30 минут;
+
+>В начале битвы мирная зона в крепости становится боевой;
+
+>Персонажам будет запрещено использовать Personal Store и NPC на время сражения.
+
+>Если во время сражения герой умирает, то он будет возрожден в мирной зоне карты Crywolf;
+
+>Цель сражения - защитить статую Священного Волка от разрушения и убить Balgass'а
+
+## Статуя Священного Волка
+
+Эта статуя является творением древних эльфов и имеет огромные размеры, а также обладает невероятно мощью, которая позволяет сдерживать армию Kundun'а.
+Также она является целью Balgass'а и его армии - разрушение статуи позволит ему завладеть крепостью Crywolf. Поэтому игроки всеми силами должны защитить её и не дать Balgass'у достигнуть своей цели.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbuAG70YPpEMQSpyPBf-6UplCMgG9xOX509zk28XOpqccyGo0nBlHhbRj6ZpQiLlJsxo&usqp=CAU) 
+
+## Алтари
+Вокруг статуи Священного Волка находятся 5 алтарей, которые предназначены для увеличения силы статуи за счет энергии эльфов.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hpSRzO_4LDfAmiS5dU9SQBOW7uqp4edS4rn8jq5huMeLpDAv2tSFVKW6Ypx6GHHA2rA&usqp=CAU)
+
+Для Balgass'а алтари являются первоначальной целью, ведь после их разрушения статуя теряет свои защитные способности. Для успеха в сражении игроки и, что немаловажно, эльфы должны приложить немало усилий в защите статуи. Если в начале сражения ни один алтарь не будет присоединен с эльфом, то битва автоматически считается проигранной.
+
+## Роль эльфов в сражении
+
+>Эльфам в этой битве отведена одна из самых важных ролей - увеличить защитустатуи за счет своей энергии. Для этого до пяти персонажей Muse Elf / HighElf могут присоединиться к каждому из алтарей.
+Когда присоединение эльфа к алтарю произойдет успешно, то персонаж не сможет выполнять никаких действий. Любое движение, атака, или смерть персонажа приведет к разрыву соединения с алтарем.
+Допустимо не более двух попыток встать на каждый алтарь. Для этого у игроков есть две минуты перед началом сражения.
+Жизненная сила статуи увеличивается за счет здоровья каждого из присоединенных эльфов. То есть, чем больше эльфов встало на алтари, тем больше здоровья у статуи. Если здоровье эльфа, который находится на алтаре, уменьшается во время сражения, здоровье статуи также уменьшается.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzygUhDMRybDv41DsNY9HM64SyfewDVgUx76xTSu75LbImJFdsg8D-A3uEEyzzyB3Vb4&usqp=CAU) 
+
+## Ход сражения
+
+>Перед началом атаки Balgass'а на статую, его армия пытается ослабить защиту,атакуя персонажей, которые участвуют в битве. Для этого он отправил своивойска под предводительством двенадцати Dark Elf'ов.
+Задача игроков во время первого сражения убить всех Dark Elf'ов для того, что-бы Balgass начал атаку собственнолично.
+
+Dark Elf
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31QY2GAcXUd4xxXgSXR5Xer-5V1lSfWqlfw&usqp=CAU) 
+
+
+После того, как вся армия Balgass'а уничтожена, ему не остается ничего другого. как атаковать крепость одному. Поэтому в последние 5 минут до конца сражения Balgass приходит к статуе и пытается завершить свой злой умысел.
+В арсенале у Balgass'а много опасных заклинаний, которые могут доставить много проблем защитникам крепости. Одна из таких - массовая заморозка игроков (Stern).
+Здоровье Balgass'а будет отображаться в верхнем левом углу под здоровьем статуи. Когда уровень здоровья достигнет нуля, Balgass считается побежденным, а защита крепости - успешной. Если Balgass не будет повержен в течение последних пяти минут, то битва считается проигранной.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FXzH9HPaAiT5bl5C7wrqO4FqjGU4a2HeQ3B0Bqgvae1G17ePd1-9abusNbmRKFI0ygo&usqp=CAU)
+
+## Условия победы
+>Остался 1 и более алтарь и статуя Священного волка защищена.
+
+>Balgass повержен.
+
+## Условия поражения
+>К началу сражения ни один эльф не встал на алтарь.
+
+>Все алтари уничтожены и контакт не поддержан до конца сражения.
+
+>К концу сражения Balgass не повержен.
+
+## Награды
+
+Наградой за успешную защиту крепости будут:
+
+>индивидуальные призы в виде топовых Excellent-вещей;
+
+>дополнительный опыт (не учитывая опыт с убитых монстров), который зависит от числа игроков, принимавших участие в защите;
+
+>дополнительные Kill-Points тому, кто нанесет последний удар;
+
+>дополнительные Kill-Points и Jewel of Bless тем эльфам, которые к концу сражения были в контакте с алтарем.
+
+>Награды выдаются в конце сражение, поэтому те, кто телепортировался из карты Crywolf до конца битвы, награду не получат.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNSbSNIeL6R7AYwVOjYgMWccXjpMpKQN7y0A&usqp=CAU)
+
+## Награда за убийство Dark Elf box of kundun +5
+
+## Награда за убийство Balgass
+
+### Balgass: Количество выпадения предметов 1 шт.
+
+### Items: 
+    Inberial Staff
+    Flameberge
+    Rune Bastard Sword
+    Deadly Staff
+    Absolute Scepter
+    Storm Blitz Stick
+    Frost Mace
+    Dark Stinger
+
 </details>
 
 <details>
-<summary>[Event] Maya and Nightmare</summary>
+<summary>[Event] Kanturu</summary>
+
+## Что такое Kanturu Event?
+Последний представитель смешанный формы жизни, созданный людьми Kantru, и совершенное воплощение ужаса. Мощь Nightmare была слишком велика и неподвластна контролю, и он был заточен внутри Maya с момента создания. Когда Kantru распалась и Maya потеряла контроль, это явилось шансом для Nightmare вновь вернуться в этот мир.
+
+Как попасть на Kanturu Event
+
+Вход расположен на карте Kanturu Relics [141, 186].
+
+Gateway Mashine
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatJ_RfYt1tmPFK1CAiWbnqRftT7MtyxeW1FEuTVCF8xKe8jnGVph5sW1ulKIPA54rOEQ&usqp=CAU) 
+
+При себе необходимо иметь Moonstone Ring (одевается в слот кольца), найти его можно на карте Kanturu Remains. 
+Значение прочности Moonstone Ring постоянно падает, ремонтировать его нельзя. Если снять Moonstone Ring во время битвы то вы окажетесь в Kanturu Remains safe zone, и если этот игрок был единственным на мероприяти, то оно через несколько минут начнется заново.
+
+Moonstone Ring
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNy3LVXSkkSR4T3dtXSfpR7k18RmKGRoznTRcvGAf9JzA7JXWaNNfqz1JL7fM23gtRKU&usqp=CAU) 
+
+Доступ на мероприятие открывается когда вы видите "1 minute left before Kanturu gate core opens". После этого нужно прийти ко входу, надеть Moonstone Ring, нажать на дверь и выбрать "Enter". Если подготовительное время закончилось - игроки смогут зайти, если ещё нет - то кнопка "Enter" будет неактивной, и значит нужно подождать.
+
+## Битва
+После входа к Maya вы должны будете убить 10 монстров, после чего появится Maya's Left Hand. Игрокам дается 15 минут на уничтожение Maya's Left Hand. Если им это не удается, то все участники отправляются в безопасную зону Kantru Remains. После уничтожения Maya's Left Hand игрокам дается двухминутный перерыв, во время которого к квесту могут присоединится дополнительные участники, если кто-то погиб. 
+
+Maya's Left Hand
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrk-f4K2CWYOHj2KNNQzvehnqGFy1LT6A-gmDTLEkiHd29P7kiEKPx284zQL5kvX1Asv4&usqp=CAU) 
+
+Во время самой битвы присоединиться к мероприятию нельзя. Затем игрокам необходимо убить еще 10 монстров, после чего появится Maya's Right Hand. Игрокам дается 15 минут на уничтожение Maya's Right Hand. Если им это не удается, то все участники отправляются в безопасную зону Kantru 2. После уничтожения Maya's Right Hand игрокам дается двухминутный перерыв, во время которого к квесту могут присоединится дополнительные участники, если кто-то погиб. 
+
+Maya's Right Hand
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPDQYHnFSmw0mxYRPRLugstKZnBivK0TwVSve_YPVcwzF-kO6GfNtvjrzP0B8BSzNqbQ&usqp=CAU) 
+
+Во время самой битвы присоединиться к мероприятию нельзя. Затем появляются еще 20 монстров, которых необходимо уничтожить, после чего нужно уничтожить обе руки Maya. После того, как Maya повержена, участники перемещаются к боссу Nightmare. На убийство Nightmare игрокам дается 20 минут. Nightmare при получении смертельного повреждения будет трижды телепортироваться в разные части локации и полностью восстанавливать себе здоровье. При телепортации также будут воскресать и мобы.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YIq9WNngxrRgSEozKxODxcJcYeHluYXzNOXZD2-jIiCk_zUcjQ8eWFd2GDcs7Z9n6M4&usqp=CAU) 
+
+## Награда за убийство Nightmare
+
+### Maya Hand Left: Количество выпадения предметов 1 шт.
+
+Items: 
+
+    Chaos Card Rare
+    Chaos Card Gold
+    Chaos Card Mini
+    Chaos Card
+
+### Maya Hand Right: Количество выпадения предметов 1 шт.
+
+Items: 
+
+    Chaos Card Rare
+    Chaos Card Gold
+    Chaos Card Mini
+    Chaos Card
+
+### Nightmare: Количество выпадения предметов 1 шт.
+
+Items: 
+
+    Platina Staff
+    Guardian Shield
+    Sword Breaker
+    Daybreak
+    Crimson Glory
+    Dark Reign Blade
+    Salamander Shield
+    Shining Scepter
+    Cross Shield
+    Black Rose Stick
+    Elemental Mace
+    Albatross Bow
+    Frost Barrier
+
+Если игрокам удалось победить Nightmare, то будет открыт доступ в башню Tower of Refine в течение следующих 24 часа.
 </details>
 
 <details>
 <summary>[Event] Medusa Invasion</summary>
+
+## Что такое Medusa Invasion?
+Medusa один из самых сильных боссов в игре Mu online, его логово находится в болотных землях Swamp of Peace.
+
+## Структура карты
+Безопасная зона
+Когда вы перейдете на Swamp of Peace, вы окажетесь в безопасной зоне, где есть 4 портала, которые отправляют вас в зону охоты.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWpBWhmp1sRp2U9HeMtfokOWiT5knp3209BGVxk9QU9OvXTHKuzRM_Nb_0_i64xXbaL8&usqp=CAU) 
+
+## Зона охоты
+В Охотничьем районе вы найдете всех монстров Болота Мира, вы найдете Медузу (Босс) Карты.
+
+Красные прямоугольники отмечают вход на карту.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlG4-oCWnCBRlWnb8a6efyRnkhQRTHseHCtT8ypu_GmPavUDWkeSlL5neEuA4TN3NDnc&usqp=CAU) 
+
+## Босс мероприятия
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKp6GtzeaSnlUwyUtxCyKB2fJ2-_JjxURABttGCXJkkTGmxshRJifeCw8wE6Jv0uH4dEI&usqp=CAU) 
+
+## Приз
+За убийство Медузы вы получаете один случайный предмет из списка ниже:  
+
+    Bone Blade
+    Explosion Blade
+    Solei Sceptor
+    Sylph Wind Bow
+    Grand Viper Staff
+    Storm Blitz Stick
+    Book of Lagle
+    Venom Mist Helm
+    Venom Mist Armor
+    Venom Mist Pants
+    Venom Mist Gloves
+    Venom Mist Bots
+    Dragon Knight Helm
+    Dragon Knight Armor
+    Dragon Knight Pants
+    Dragon Knight Gloves
+    Dragon Knight Bots
+    Sylphid Ray Helm
+    Sylphid Ray Armor
+    Sylphid Ray Pants
+    Sylphid Ray Gloves
+    Sylphid Ray Bots
+    Volcano Armor
+    Volcano Pants
+    Volcano Gloves
+    Volcano Bots
+    Sunlight Helm
+    Sunlight Armor
+    Sunlight Pants
+    Sunlight Gloves
+    Sunlight Bots
+    Storm Blitz Helm
+    Storm Blitz Armor
+    Storm Blitz Pants
+    Storm Blitz Gloves
+    Storm Blitz Bots
 </details>
 
 <details>
 <summary>[Event] Christmas invasion</summary>
+
+## Что такое Christmas Invasion?
+Дед Мороз со своими помощниками делает последние приготовления к празднику, но злобный Кундун и тут строит свои козни жителям Mu Online. Он переодел одного из своих воинов в костюм Деда Мороза, прилепил ему накладную бороду и приказал испортить нам праздник, украв со всех новогодних елок в Davias звезды. Нам больших трудов стоило раздобыть портрет этого мошенника.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQ1fPYxcOc4zpPMeHsuaP66cge1zjd0SdbgjsR1YIhrWz7p9NJ-v5LpGNR6eDJ3rBtuU&usqp=CAU) 
+
+Жители Mu Online говорят, что замечают их каждый день - в 21:50 по Минскому времени. Поторопись! Эти мошенники уже начали воровать звезды с новогодних елок.
+Логово этих злодев находится в Davias 3 в ледяном замке.
+
+## Приз за санту 
+Бафф Blessing of Xmass - увеличивает опыт на 50% в течении часа и 3 случайные Ancient вещи
+
+## Приз за гоблина 
+При убийстве Проклятого Гоблина будет отправлено приглашение в деревню Санта.
+Чтобы войти в город Санта-Клауса, вы должны щелкнуть правой кнопкой мыши по приглашению в Santa Village, вы можете ввести максимум 10 раз.
+
+## Santa Village,
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA0rnJ9O-LVr4qC2krzDNVMxMK_MbOq6AtSmsb2rGFM9VQ0maQ9IKlVc_DCOKJFXEl4I&usqp=CAU) 
+
+Войдя в город Санта, вы можете поговорить с NPC Snowman, если хотите вернуться в Devias.
+
+NPC Snowman
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybiDwqfcSfA5sa8XilBJCRikjbHmPRkMVMjaReWyiwdEJEjEBfXP0PrBA-77Ug17eqA&usqp=CAU) 
+
+## Маленькие Санта-Клаусы
+Внутри Santa Town есть 8 маленьких дедов, которые дадут вам особый бафф +25% опыта.
+>Этот баф не совместим с подарочным бафом на час за убийство санты.
 </details>
 
 <details>
 <summary>[Event] Cherry Blossom</summary>
+
+## Что такое Cherry Blossom?
+Cherry Blossom Spirit находится в городе Devias координаты 214x49. Она просит вас отыскать и принести ей пропавшие веточки вишни.
+
+![alt text](https://i.ytimg.com/vi/nJDurnPSq_s/hqdefault.jpg) 
+
+Веточки вишни вы можете отыскать в сундуках Cherry Blossom Box.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS_c3-AgRu_V5G1soMvO8mjYazZocQphkbs48ibtR9RfjvCilzeXB6eyFD4_LQCtKZQ&usqp=CAU) 
+
+>White Cherry Blossom
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisyHA-AbYR1EppN5rf8Oa2bjSdK799fF0Jc1judvPiJlQf39YGre3I2TTYBAeuKvZaA&usqp=CAU) 
+
+>Red Cherry Blossom
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-pG3EkUKxwIuxFS_ZeIsFtqdYyWsx8RbRwVXtnF3FFSUlNHLCIo5osbqC-LlpxFn_Q&usqp=CAU) 
+
+>Golden Cherry Blossom
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEWIKZIhvTVWNe9tAO4vgTXpJqXT0Ccs3KYwLYnjAXTv6CAgSrDjL1r5_QSLPEr1nFA&usqp=CAU) 
+
+Так же с Cherry Blossom Box падают дополнительные баффы Cherry Blossom Rice Cake, Cherry Blossom Wine, Cherry Blossom Flower Petal.
+
+![alt text](https://imageshack.com/a/img923/3968/ULdy7F.jpg) 
+
+После сбора необходимого количества веточек поговорите с Cherry Blossom Spirit.
+
+В открывшeеся окно положите собраный итм и нажмите Combining.
+
+White Cherry Blossom x10
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nD1cxqECA5Nv16jStL_fsbi9KDM32ongU7Exq-mO6b6A_PZDiakj_TcA3h4o2pObZIE&usqp=CAU) 
+
+Red Cherry Blossom x30
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitEprVCLBsfuJxHNouYrOimSSv41EjibSnTzgeVXPynTJj7hsPUjqcOlXALu1wX3rTWA&usqp=CAU) 
+
+Golden Cherry Blossom x50
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIz0WzmFYx3a0KiukARvOtuHwTId42ECdjPTOom808wwqEYZU0EX4zN_At7RV24huZcM&usqp=CAU) 
+
+## Cherry Blossom Spirit щедро отблагодарит вас за помощь.
+
+>Cherry Blossom Play-Box:
+
+    Cherry Blossom Wine;
+    Cherry Blossom Rice Cake;
+    Cherry Blossom Flower Petal;
+    White Cherry Blossom Branch;
+    Red Cherry Blossom Branch;
+    Golden Cherry Blossom Branc;
+
+>White Cherry:
+
+    Bundled Jewel of Bless x10
+    Bundled Jewel of Soul x10
+    Bundled Jewel of Chaos x10
+    Bundled Jewel of Life x10
+    Devil's Invitation +7
+    Lost map +7
+    Invisibility Cloak + 8
+
+>Red Cherry:
+
+    Devil Square Ticket;
+    Blood Castle Ticket;
+    Kalima Ticket;
+    Horn of Dinoran;
+    Moonstone Pendant;
+    Bundled Jewel of Bless x20;
+    Bundled Jewel of Soul x20;
+    Bundled Jewel of Chaos x20;
+    Bundled Jewel of Life x20;
+
+>Golden Cherry:
+
+    Bundled Jewel of Bless x30;
+    Bundled Jewel of Soul x30;
+    Bundled Jewel of Harmony x10 - x30;
+    Bundled Jewel of Life x30;
+    Magic Backpack;
+    Vault Expansion Certificate;
 </details>
 
 <details>
 <summary>Об Игре</summary>
+
+MU Online - это бесплатный сервер классической MMO-игры MU Online с огромным количеством новых возможностей и неповторимой игровой атмосферой на уникальной сборке. Мы взяли за основу классическую версию игры, которую вы помните с детства. Все нововведения уникальны и доступны только на наших серверах игры.
+
+![alt text](https://raw.githubusercontent.com/tasks-delivery/MuOnline/main/asset/cs.png) 
+
+MU Online - это одна из самых интересных и простых в освоении классических ММОRPG игр, которая не стоит на месте, а постоянно улучшается и дополняется. За свою многолетнюю историю она собрала огромную базу фанатов по всему миру, которые играют в неё независимо от цвета кожи, национальности и вероисповедания.
+
+![alt text](https://raw.githubusercontent.com/tasks-delivery/MuOnline/main/asset/about_img_3.png) 
+
+Игра предоставляет вам возможность изучать огромный мир MU континента, как в одиночку истребляя монстров и избегая более сильных игроков - убийц, добывая небольшие суммы золотых монет, на которые вы сможете приобрести улучшенную броню или оружие, так и в партиях, объединяясь с игроками в команды, а также в больших, мощных гильдиях с крепкой дружбой и глубокой иерархией, в которую со временем вы, возможно, будете приглашены. Если вас не заметили или же вам нравятся элементы стратегии и развитие с "нуля", то вы сможете сами создать свою гильдию и развивать ее такой, какой вы бы хотели ее видеть, расширяя вашу власть и зону влияния. В мире MU Online игрокам предоставляется множество интереснейших мероприятий и квестов, которые каждый день будут дарить вам новые приятные ощущения и мощный приток адреналина, которого нам всем так не хватает в скучной повседневной жизни. Помогите Архангелу пробраться в крепость и вернуть свое утерянное оружие, поучаствуйте в массовом бою с ордами злых монстров, защитите стратегически важную крепость или пустите вашу гильдию в бой и захватите огромный замок на отдельной карте, откуда вы сможете управлять всем Mu континентом.
+
+![alt text](https://raw.githubusercontent.com/tasks-delivery/MuOnline/main/asset/about_img_2.png) 
+
+Наша команда разработчиков и игровых мастеров живет миром MU Online и постоянно придумывает что-то абсолютно новое и неординарное из обычных повседневных вещей. Мы ждем каждого из вас в нашем мире, чтобы предоставить вам максимально приятные условия для игры и дать вам возможность гордиться тем, что вы играете именно у нас.
+
+![alt text](https://raw.githubusercontent.com/tasks-delivery/MuOnline/main/asset/about_img_1.png) 
+
 </details>
