@@ -1,4 +1,377 @@
 <details>
+<summary>Features of WoMu project servers</summary>
+
+## The servers of the WoMu project are different from the classic settings of the 6th season. Below we list only a part of the features of our servers, because there are a lot of them.
+
+### We list the main features below:
+
+>Own system of buffs, at the moment we have already developed 2 buffs. Vip and Power buff. More are planned.
+
+>Ability to expand inventory and chest
+
+![](https://womu.by:8020/images/release129/ext_storage.png)
+
+>Own achievement system that allows the player to upgrade the Power buff on his account
+
+![](https://womu.by:8020/images/release128/achieve_example_en.png)
+![](https://womu.by:8020/images/release128/buff_settings_web_en.png)
+![](https://womu.by:8020/images/release128/powerbuff_icon.png)
+![](https://womu.by:8020/images/release128/powerbuff_hint.png)
+
+>Everyone has the opportunity to be on a par with the donation, there are 6 ways to earn WoCoins on the servers. Even just standing on afk you have the opportunity to earn WoCoins for killing certain mobs.
+
+>Starting bonus system for new players that kicks in after a few weeks of server uptime
+
+![](https://womu.by:8020/images/release132/bonus_start.png)
+
+>Balanced PvP system, on early resets some classes will have an advantage, but closer to full stat each class will be on an equal footing.
+
+>Own system of game quests with a pleasant reward in the form of stat points that do not burn out after a reset. The list of quests will grow in some updates, at the moment you have 200 quests available.
+
+![](https://womu.by:8020/images/quest_system_box.png)
+
+>Own reward system BC, DS, CC, Illusion Temple and Duel ratings
+
+>Main Devias server location, there are Pkclear NPC, Chaos machine, lots of shops, Lahap, NPC for BC, DS, Illustion Template and other main NPCs.
+
+![](https://womu.by:8020/images/ellen_npc.png)
+
+>Demon, Spirit of Guardian, and Golden Fenrir pets have been completely reworked on WoMu servers. These creatures have increased power and can only be obtained through the web shop on the site.
+![](https://womu.by:8020/images/angel.png)
+![](https://womu.by:8020/images/demon.png)
+![](https://womu.by:8020/images/golden_fenrir.png)
+![](https://womu.by:8020/images/golden_horse.png)
+
+>Dynamic Grand Reset system with bonuses for doing Gra after a certain reset. More details can be found in the Grand Reset section in the knowledge base.
+
+>Feather for 2nd wings can only be obtained from the Zaikan boss, in just a day you can kill this boss 11 times. The Zaikan boss spawns at a random location in Lorencia every 4 hours and in the Tarkan 2 location at the end as usual, with the same respawn at 4 hours.
+Most often, a hare can be found in the Castle deep event.
+
+>The maximum point is +13, but you can get +15 item if you buy it in the web store. This is a good incentive to make GRs and mine WoCoins
+
+>The latest top items (Brave, Titan, Hades sets, etc.) even in non-exe form are not on the server in the drop, you can get these items only in the web store. Again, another reason to do GH
+
+>Reworked locations Davias, Lorencia and Arena
+
+Arena
+
+![](https://womu.by:8020/images/new_arena.png)
+
+Lorencia
+
+![](https://womu.by:8020/images/new_lorencia.png)
+
+>Unique voting reward system for NO DONAT type servers. You can get a VIP account for 24 hours by voting on MMOTOP, which will make your life in the game much easier. Remember that to vote on mmotop you must specify ONLY your login.
+
+>Own client installer that solves all your technical issues with the installation of the game
+
+![](https://womu.by:8020/images/release132/wizard.png)
+
+>Own launcher with the ability to set fixed Zoom for the game client
+
+![](https://womu.by:8020/images/zoom_setting.png)
+</details>
+
+<details>
+<summary>Kalima</summary>
+
+## What is Kalima?
+Kalima is the world of Lord Kundun. Only the one who collects the lost card, which consists of 5 parts, can enter it. There are 7 gates that players of certain levels can enter.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1TjfY7kPCN35xd8YPJNRGLywycxDL62cLPp_nUB8su7NXLiuoThC8AJsyCgeQUCBUC8&usqp=CAU)
+
+## How to get to Kalima?
+In order to go to the Kalima map, you need to have a ticket for the passage - Lost Map. To get it, you need to get parts of the ticket - Symbol of Kundun. After you collect 5 identical parts of the Symbol of Kundun, they will automatically turn into a Lost Map of the same level as the parts of the ticket.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ19WePyYE1vQYaXy3D-qJWoUEXA69yUx5bv379QBX9yyJBQfNDSTsgLvWOlC64yh5i6M&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sWV5FlQdN9ph5h5eqUTNuehLHwkh1oC8eb5glRWFZvwhpwodKMUf1f9FdRvpKE6inE8&usqp=CAU)
+
+To get to Kalima, you must throw the ticket out of your inventory and a gate will appear next to you. After clicking on the gate, you will appear in Kalima.
+
+## On the servers of the WoMu project, the Kalima map has a special meaning, the % drop of zen in this map is increased and this map is the main one for gemstone farming.
+
+The ticket cannot be dropped in the safe area
+The gate after the ticket is thrown out only exists for a minute
+You can enter Kalima in parties
+If you get killed in Kalima, you will spawn in Lorencia
+Each level of the Kalima map has certain level requirements for characters who want to get there.
+
+MG, DL
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe11MchyEqvVjkWBtEaQdSMuZmfYygP4UdWPY6IORhIC_QLjIQGGYRBzWefzXeKrnxCTc&usqp=CAU)
+
+DK, DW, FE, SU
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5v3fwcjxnaGewFZKwruXnXo3Iz4yKnJSX85pDHsNqN1mt53CL13xufHCZ4jqZo4n660E&usqp=CAU)
+
+## Illusion of Kundun
+
+The illusion of Kundun was created by Kundun himself. After killing him, a gate appears that will teleport you to the next level of Kalima.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlY1tGam8hovqgUJPLwVm6Okmawd08bK27gu7rpxVSw38PHGu5Q2id-Fzfom4SDqhUjkc&usqp=CAU)
+
+## Kundun
+
+Kundun is the boss at the end of Kalima 7. He has a special skill that makes him unable to damage him for 20 seconds, while restoring his health, so killing him is sometimes very difficult. After killing him, you can drop from one to three Ancient items. The next time, just like Illusion of Kundun, the Kundun boss will appear after 24 hours from the moment of his death.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8zWOtyE_UJ-wKd5Tww88_t4_j0lQak8LdyQ7RoEUtAOVDGUbeBa_1zzQPYqNPc_7cLk&usqp=CAU)
+
+The list of rewards for each Kalima boss and their spawns can be viewed below:
+
+|Boss|Reward|Location|Respawn time
+|--|--|--|--|
+|Illusion of Kundun | Box of kundun +1 | Kalima 1 | 3 hours
+|Illusion of Kundun | Box of kundun +2 | Kalima 2 | 6 hours
+|Illusion of Kundun | Box of kundun +3 | Kalima 3 | 9 hours
+|Illusion of Kundun | Box of kundun +4 | Kalima 4 | 12 hours
+|Illusion of Kundun | Box of kundun +5 | Kalima 5 | 15 hours
+|Illusion of Kundun | Box of kundun +5 | Kalima 6 | 18 hours
+|Kundun| 3 Ancient items | Kalima 7 | 24 hours
+</details>
+
+<details>
+<summary>Goldes bosses</summary>
+
+The Golden Kundun invaded the Mu mainland. Find him and kill him for rewards!
+
+Boss schedule:
+00:15, 03:15, 06:15, 09:15, 12:15, 15:15, 18:15, 21:15
+
+|Boss|Count|Location
+|--|--|--|
+|Golden Budge Dragon | 3 | Noria, Lorencia, Devias
+|Golden Goblin | 5 | Noria Lorencia
+|Golden Titan | 5 | Devias
+|Golden Derkon | 3 | Noria, Lorencia, Devias
+|Golden Lizard King | 4 | Atlans
+|Golden Wheel| 5 | Tarkan
+|Golden Vepar| 5 | Atlans
+|Golden Soldier| 3 | Tarkan
+|Golden Tantalos| 3 | Tarkan
+</details>
+</details>
+
+<details>
+<summary>[Event] Raklion Hatchery</summary>
+
+Selupan bos v igre Mu online, yego logovo nakhoditsya v zasnezhennykh zemlyakh LaCleon ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9iLgD4yUVF2EvRzHlhCvjBx_2oe1kkNbOL0SzmUm4BhULXmBbRBprwCZjaba24B7SnY&usqp=CAU) 1) Vkhod v lokatsiyu LaCleon 2) Vorota k bosu 3) Logovo Selupana The Hatchery Gate open opoveshcheniye o nachale kvesta, vorota k Selupan otkryty. Posle vkhoda v logovo vam nuzhno budet unichtozhit' kladku bosa. ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8DVbrQHyJH_0qqZxJLhdd9WLnwCks_V21q2XSTePAoJysd4P8xhK94QV1HzyfhQ732o&usqp=CAU) Cherez nekotoroye vremya Selupan sumonit sebe v pomoshch' paukov. Vorota v logovo zakroyutsya cherez pyat' minut. Posle zakrytiya vorot poyavitsya bos Selupan. ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApx2KX2IQoCHr0WPZC3S5aE63fLe7vZ1oWbwHTLlKvA0SkwBJ8a7xuAw0EHPRlJC1H5g&usqp=CAU) Selupan ochen' sil'nyy bos obladayushchiy ogromnym kolichestvom zhizni i zashchity, ispol'zuyushchiy bol'shoye kolichestvo skilov: yad, zamorozka, teleport, otbrasyvaniye, sumon okhrany. Posle udachnogo zaversheniya reyda Selupan vozobnovit svoi sily rovno cherez sutki s minuty gibeli i budet opyat' gotov vstretitsya s zhitelemi kontinenta Mu Online, posyagnuvshimi na yego vladeniya. Drop s Selupan'a eto srazu tri Excellent veshchi iz spiska nizhe:
+Ещё
+1 266 / 5 000
+Результаты перевода
+Selupan is a boss in the game Mu online, his lair is in the snowy lands of LaCleon
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9iLgD4yUVF2EvRzHlhCvjBx_2oe1kkNbOL0SzmUm4BhULXmBbRBprwCZjaba24B7SnY&usqp=CAU)
+
+1) Entrance to the LaCleon location
+2) Gate to the boss
+3) Selupana's Lair
+
+The Hatchery Gate open notification about the beginning of the quest, the gate to Selupan is open. After entering the lair, you will need to destroy the boss's clutch.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8DVbrQHyJH_0qqZxJLhdd9WLnwCks_V21q2XSTePAoJysd4P8xhK94QV1HzyfhQ732o&usqp=CAU)
+
+After a while, Selupan will summon spiders to help him.
+
+The gate to the lair will close in five minutes. After the gate closes, the boss Selupan will appear.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApx2KX2IQoCHr0WPZC3S5aE63fLe7vZ1oWbwHTLlKvA0SkwBJ8a7xuAw0EHPRlJC1H5g&usqp=CAU)
+
+Selupan is a very strong boss with a huge amount of life and defense, using a large number of skills: poison, freeze, teleport, knockback, guard sumon. After the successful completion of the raid, Selupan will resume its forces exactly one day after the moment of death and will again be ready to meet with the inhabitants of the Mu Online continent, who have encroached on his possessions. Drop from Selupan is three Excellent items from the list below:
+
+    Knight Blade
+    Sword Dancer
+    Great Lord Scepter
+    Arrow Viper Bow
+    Great Reign Crossbow
+    Staff of Kundun
+    Elemental Mace
+    Demonic Stick
+    Book of Neil
+    Dragon Shield
+    Grand Soul Shield
+    Elemental Shield
+    Dark Soul Helm
+    Dark Soul Armor
+    Dark Soul Pants
+    Dark Soul Gloves
+    Dark Soul Bots
+    Great Dragon Helm
+    Great Dragon Armor
+    Great Dragon Pants
+    Great Dragon Gloves
+    Great Dragon Bots
+    Red Spirit Helm
+    Red Spirit Armor
+    Red Spirit Pants
+    Red Spirit Gloves
+    Red Spirit Bots
+    Hurricane Armor
+    Hurricane Pants
+    Hurricane Gloves
+    Hurricane Bots
+    Dark Master Helm
+    Dark Master Armor
+    Dark Master Pants
+    Dark Master Gloves
+    Dark Master Bots
+    Demonic Helm
+    Demonic Armor
+    Demonic Pants
+    Demonic Gloves
+    Demonic Bots
+</details>
+
+<details>
+<summary>Skeleton King Invasion</summary>
+
+## What is Skeleton King Invasion?
+
+Skeleton King Invasion - once a day one of the most powerful Skeleton King bosses appears on the Arena map at the very end of it at 21:30 Minsk time.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTEgNqJBSOHS-PgVfROLYz6QCvUjbcL3DSZNbIXLv_pk-_sxJtAGEMfF5fQ_UxGwwIA&usqp=CAU)
+
+It is very difficult to kill this boss alone, so it is better to act in a group.
+
+This boss can drop one item from the list below:
+
+    Bone Blade
+    Explosion Blade
+    Solei Sceptor
+    Sylph Wind Bow
+    Grand Viper Staff
+    Storm Blitz Stick
+    Book of Lagle
+    Venom Mist Helm
+    Venom Mist Armor
+    Venom Mist Pants
+    Venom Mist Gloves
+    Venom Mist Bots
+    Dragon Knight Helm
+    Dragon Knight Armor
+    Dragon Knight Pants
+    Dragon Knight Gloves
+    Dragon Knight Bots
+    Sylphid Ray Helm
+    Sylphid Ray Armor
+    Sylphid Ray Pants
+    Sylphid Ray Gloves
+    Sylphid Ray Bots
+    Volcano Armor
+    Volcano Pants
+    Volcano Gloves
+    Volcano Bots
+    Sunlight Helm
+    Sunlight Armor
+    Sunlight Pants
+    Sunlight Gloves
+    Sunlight Bots
+    Storm Blitz Helm
+    Storm Blitz Armor
+    Storm Blitz Pants
+    Storm Blitz Gloves
+    Storm Blitz Bots
+</details>
+
+<details>
+<summary>Rabbits Invasion</summary>
+
+## What is Rabbits Invasion?
+
+Rabbits Invasion - once a day, white rabbits appear all over the Devias map at 22:45 Minsk time for the next 15 minutes.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_t5f1eZSS2CzXZmoFtc6KLwwy1dgGkcg8Eq7Y000ybPRzAi-Qb24Huj4lfIhSPCHdclE&usqp=CAU
+)
+
+During the quests you have the opportunity to get a lot of different rewards. The more rabbits you kill in 15 minutes, the more rewards you get, it all depends on your speed of killing rabbits. With optimal farming, even 1000 rabbits can be killed.
+
+Each rabbit can drop 1 stone from the list below:
+
+    Jewel of Bless
+    Jewel of Soul
+    Jewel of Chaos
+    Jewel of Life
+
+In addition to this, from each rabbit you get 1 WCoinC point, which can then be exchanged on the website for WoCoins. With a good farming speed, you have the opportunity to earn WoCoins in large volumes every day.
+
+Also, while killing rabbits, you complete the "Rabbit Skin" achievement.
+</details>
+
+
+<details>
+<summary>Castle deep</summary>
+
+This event is held in the Valley of Loren and aims to kill as many mobs as possible and the Zaikan boss.
+
+Opening hours:
+4 times a day
+Duration:
+30 minutes
+
+## The Castle Deep event consists of 3 stages:
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoU0-e6kyuQosxEQ2w2MmMlHEgopSUpI0C043BhJtvrWZO7Cl1e5BTNq8pZcxCys7U80&usqp=CAU)
+
+## Stage 1
+Monster Invasions for 10 minutes in Sector A
+
+    Poison Shadow
+    Cursed Wizard
+    death cow
+    Devil
+    death knight
+    Death Gorgon
+    Great Bahamut
+    Silver Valkyrie
+    Lizard King
+    Mutant
+
+## Stage 2
+Monster Invasions for 10 minutes in Sector B
+
+    Alquamos
+    bloody wolf
+    Mega Crust
+    Iron Wheel
+    Queen Rainer
+    Tantallos
+    Beam Knight
+    Drakan
+    Alpha Crust
+    phantom knight
+    Ax Warrior
+    Lizard Warrior
+    Aegis
+    Lord Centurion
+    bloody soldier
+    death angel
+    Necron
+    Beam Knight
+    Drakan
+    Elite Orc
+
+## Stage 3
+Monster Invasions for 10 minutes in Sector B
+
+    Zaikan (Boss)
+    Hydra
+    Orc Archer
+    spirit knight
+    Zaikan
+    Alpha Crust
+    Mutant
+    Poison Golem
+    queen bee
+    fire golem
+
+With Zaikan, you can drop one of the following items:
+
+>Loch's Feather or Crest of Monarch has a 95% chance to drop
+
+>Any random item with a 5% chance
+
+After killing Zaikan, the nickname of the character who killed him will be announced to the entire server
+</details>
+
+<details>
 <summary>Grand Reset</summary>
 
 ## Grand reset, you have the opportunity to immediately get from 500 to 1200 WoCoins in one go for a grand reset of your character.
@@ -623,11 +996,11 @@ The pass to Devil's Square is the Devil's Square Invitation (invitation to Devil
 
 At a certain time in the game MUonline, messages begin to appear: "15 (10.5) minute(s) left before Devil's Square opens!". And after the specified time, the message "The gates of Devil's Square are open!" will appear. Once you see this message, don't hesitate to go from Devil's Square Invitation to Charon (he's in Devias 130x100). Talk to him, you will see a table on the screen in which you need to choose the level of Devil's Square that suits your character (the Devil's Square Invitation in your inventory should be the same level). If you did everything right, then you will be taken to Devil's Square.
 
-DK, DW, ELF
+DK, DW, ELF, SUM
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4XxLCd6l3P3Jhk9g7fH-35s7GlafYbjvoTEkMBcwEwH_Q-u1zg6zKdbs--X4n00n9QU&usqp=CAU)
 
-DL, MG, SUM
+DL, MG
 
 ![alt text](https://lh3.googleusercontent.com/-S7zZBCH4pLA/WsSq_p1s6xI/AAAAAAAACmU/MqMlTwQ08E0eoBFg-s0H4WPQeD_kTnqNQCLcBGAs/2.png)
 
@@ -660,11 +1033,11 @@ The pass to Blood Castle is Cloak of Invisibility (Cloak of Invisibility). It is
 ## Time for the quest
 At a certain time in the game MUonline, messages begin to appear: "6 (5,4,3,2,1) minute(s) left before entry into Blood Castle". As soon as you see such a message, do not hesitate to go with the Cloak of Invisibility to the archangel (he is in Davias 214x98). Talk to him, you will see a table on the screen in which you need to choose the level of Blood Castle that suits your character (the same level should be the Cloak of Invisibility in your inventory). If you did everything right, then you will be taken to the Blood Castle.
 
-DK, DW, ELF
+DK, DW, ELF, SUM
 
 ![alt text](https://lh3.googleusercontent.com/-CKZ93d7rkB0/WsShqnWrhHI/AAAAAAAAClY/fKHnVqowPa0nFEXkcxFvOpuOLrPvNocdQCLcBGAs/1.png)
 
-DL, MG, SUM
+DL, MG
 
 ![alt text](https://3.bp.blogspot.com/_Gx5v96e0H5s/THL16vpA_AI/AAAAAAAAAag/dm_EMPFqUXs/s1600/Blood+Castle+DL+MG.jpg)
 
