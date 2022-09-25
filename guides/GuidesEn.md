@@ -1,4 +1,106 @@
 <details>
+<summary>Bonuses for transferring guilds!</summary>
+
+# First stage of bonuses
+
+## Roster of 10 players gets:
+
+    3x VIP for 15 days.
+    3x Power Buff for 3 days.
+    3x tickets of your choice.
+    1x Panda Pet for 3 days.
+    1x stealth mode for 30 days.
+ 
+## Roster of 15 players receives:
+
+    4x VIP for 15 days.
+    4x Power Buff for 3 days.
+    4x tickets of your choice.
+    2x Panda Pet for 3 days.
+    2x stealth mode for 30 days.
+ 
+
+## Roster of 20 players gets:
+
+    6x VIP for 15 days.
+    6x Power Buff for 3 days.
+    6x ticket of your choice.
+    3x Panda Pet for 3 days.
+    3x stealth mode for 30 days.
+
+# Second stage of bonuses
+
+## Roster from 10 players who have reached 15 resets gets:
+
+    2x VIP for 15 days.
+    2x Power Buff for 3 days.
+    2x tickets of your choice.
+    1x Panda Pet for 7 days.
+    10x Box Of Kundun +4.
+    5x Box Of Kundun +5.
+
+## Roster from 15 players who reached 15 resets gets:
+
+    3x VIP for 15 days.
+    3x Power Buff for 3 days.
+    3x tickets of your choice.
+    2x Panda Pet for 7 days.
+    15x Box Of Kundun +4.
+    10x Box Of Kundun +5.
+
+## Roster from 20 players who reached 15 resets gets:
+
+    4x VIP for 15 days.
+    4x Power Buff for 3 days.
+    4x tickets of your choice.
+    3x Panda Pet for 7 days..
+    20x Box Of Kundun +4.
+    15x Box Of Kundun +5.
+
+# Third stage of bonuses
+
+## Roster from 10 players who reached 25 resets gets:
+
+    2x VIP for 15 days.
+    2x Power Buff for 3 days.
+    2x tickets of your choice.
+    2x Panda Pet for 7 days.
+    10x Box Of Kundun +5.
+    5x Jewel Of Bless x30
+    3x Jewel of Soul x30
+
+    
+## Roster from 15 players who have reached 25 resets gets:
+
+    3x VIP for 15 days.
+    3x Power Buff for 3 days.
+    3x tickets of your choice.
+    3x Panda Pet for 7 days.
+    15x Box Of Kundun +5.
+    7x Jewel Of Bless x30
+    5x Jewel of Soul x30
+
+## Roster from 20 players who reached 25 resets gets:
+
+    4x VIP for 15 days.
+    4x Power Buff for 3 days.
+    4x tickets of your choice.
+    4x Panda Pet for 7 days.
+    20x Box Of Kundun +5.
+    10x Jewel Of Bless x30
+    7x Jewel of Soul x30
+
+# Terms
+
+    Add as admin friends (Discord): WoMu-Admin -#9476
+    Guild name.
+    Nickname Guild leader.
+    Link to Discord channel.
+    All players must be active when issuing bonuses.
+    Number of transfer players.
+</details>
+
+<details>
 <summary>Features of WoMu project servers</summary>
 
 ## The servers of the WoMu project are different from the classic settings of the 6th season. Below we list only a part of the features of our servers, because there are a lot of them.
