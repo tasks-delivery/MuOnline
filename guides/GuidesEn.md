@@ -1,4 +1,43 @@
 <details>
+<summary>Система динамического опыта</summary>
+
+# Dynamic experience system for Aegis server
+
+Min Reset | Max reset | ExperienceRate
+-- | --- | ----
+  0 | 10 | 30
+  11 | 20 | 28
+  21 | 30 | 27
+  31 | 40 | 25
+  41 | 50 | 24
+
+# Dynamic experience system for Exile server
+
+Min Reset | Max reset | ExperienceRate
+-- | --- | ----
+  0 | 10 | 1000
+  11 | 20 | 950
+  21 | 30 | 900
+  31 | 40 | 850
+  41 | 50 | 800
+  51 | 60 | 750
+  61 | 70 | 700
+  71 | 80 | 650
+  81 | 90 | 600
+  91 | 100 | 550
+  101 | 110 | 500
+  111 | 120 | 450
+  121 | 130 | 400
+  131 | 140 | 350
+  141 | 150 | 300
+  151 | 160 | 250
+  161 | 170 | 200
+  171 | 180 | 150
+  181 | 190 | 100
+  191 | 200 | 50
+</details>
+
+<details>
 <summary>Bonuses for transferring guilds!</summary>
 
 # First stage of bonuses
